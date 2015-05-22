@@ -148,13 +148,12 @@
         /**
         * Returns information about the plugin as a name/value array.
         * The current keys are longname, author, authorurl, infourl and version.
-        * 插件信息
         * @return {Object} Name/value array containing information about the plugin.
         */
         getInfo: function() {
             return {
                 longname: 'zh_cn',
-                author: 'baomign.qbm',
+                author: 'qubaoming@gmail.com',
                 authorurl: 'http://freestyle21.cn',
                 infourl: 'http://freestyle21.cn',
                 version: '1.0'
