@@ -1,8 +1,12 @@
  /**
- * tinymce插件，用户组合显示下拉菜单。
- * @author <qubaoming@gmail.com>
+ * plugin.js
+ * Copyright, Moxiecode Systems AB
+ * Released under LGPL License.
  *
-*/
+ * Tinymce Group plugin
+ * License: http://www.tinymce.com/license
+ * Contributing: qubaoming@gmail.com
+ */
 
 (function() {
 
