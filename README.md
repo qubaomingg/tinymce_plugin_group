@@ -10,4 +10,4 @@ A plugin for tinymce to show a combinative  menu
 
 ## get information
 
-![](http://freestyle21.cn/2015/04/18/tinymce-plugin-group/)
+详细分析请见博客: [http://freestyle21.cn/2015/04/18/tinymce-plugin-group](http://freestyle21.cn/2015/04/18/tinymce-plugin-group/)
