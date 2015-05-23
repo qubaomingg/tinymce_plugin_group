@@ -4,9 +4,9 @@
 
 A plugin for tinymce to show a combinative  menu
 
-## Step
+### Getting Started
 
-tinymce config:
+Tinymce config:
 
       toolbar1: 'undo redo | group group group group group | fullscreen',
       group_set: [{
@@ -31,12 +31,12 @@ tinymce config:
           title: 'advanced.sup_desc'
       }]
 
-## The style
+### The style
 
 ![img](./img/show.png)
 
 
-## For information
+### For information
 
 More Information: [http://freestyle21.cn/2015/04/18/tinymce-plugin-group](http://freestyle21.cn/2015/04/18/tinymce-plugin-group/)
 
