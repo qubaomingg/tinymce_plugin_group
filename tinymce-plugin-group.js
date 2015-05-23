@@ -42,12 +42,12 @@
         blockquote : ['Blockquote', 'mceBlockQuote']
     };
 
-    //加载语言包
+    // load the language package.
     tinymce.PluginManager.requireLangPack('group');
 
-    //简历插件类
+    // plugin class
     tinymce.create('tinymce.plugins.group', {
-        //编辑器初始化后将初始化一个插件实例
+        // 编辑器初始化后将初始化一个插件实例
         init: function(ed, url) {
             //在这个实例中我们保存一些编辑器的公用信息
             this.ed = ed;
