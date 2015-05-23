@@ -1,5 +1,5 @@
-#tinyMCE group plugin.
-[![Build Status](https://travis-ci.org/freestyle21/tinymce_plugin_group)](https://travis-ci.org/freestyle21/tinymce_plugin_group)
+#Tinymce Group Plugin
+![Build Status](https://travis-ci.org/freestyle21/tinymce_plugin_group)](https://travis-ci.org/freestyle21/tinymce_plugin_group)
 
 ## tinymce_plugin_group
 
