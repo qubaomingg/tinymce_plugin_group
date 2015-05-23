@@ -1,5 +1,6 @@
 #Tinymce Group Plugin
-![Build Status](https://travis-ci.org/freestyle21/tinymce_plugin_group)](https://travis-ci.org/freestyle21/tinymce_plugin_group)
+
+[![Build Status](https://travis-ci.org/Aufree/ting.svg?branch=master)](https://travis-ci.org/freestyle21/tinymce_plugin_group)
 
 ## tinymce_plugin_group
 
