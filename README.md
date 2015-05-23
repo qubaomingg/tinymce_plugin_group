@@ -8,28 +8,28 @@ A plugin for tinymce to show a combinative  menu
 
 tinymce config:
 
-    toolbar1: 'undo redo | group group group group group | fullscreen',
-    group_set: [{
-        icon: 'alignleft',
-        buttons: 'alignleft,aligncenter,alignright',
-        title: 'Align center'
-    }, {
-        icon: 'bullist',
-        buttons: 'bullist,numlist',
-        title: 'advanced.bullist_desc'
-    }, {
-        icon: 'indent',
-        buttons: 'indent,outdent',
-        title: 'advanced.indent_desc'
-    }, {
-        icon: 'subscript',
-        buttons: 'superscript,subscript',
-        title: 'advanced.sup_desc'
-    },{
-        icon: 'image',
-        buttons: 'alitophotobank,image, aliphotobank',
-        title: 'advanced.sup_desc'
-    }]
+      toolbar1: 'undo redo | group group group group group | fullscreen',
+      group_set: [{
+          icon: 'alignleft',
+          buttons: 'alignleft,aligncenter,alignright',
+          title: 'Align center'
+      }, {
+          icon: 'bullist',
+          buttons: 'bullist,numlist',
+          title: 'advanced.bullist_desc'
+      }, {
+          icon: 'indent',
+          buttons: 'indent,outdent',
+          title: 'advanced.indent_desc'
+      }, {
+          icon: 'subscript',
+          buttons: 'superscript,subscript',
+          title: 'advanced.sup_desc'
+      },{
+          icon: 'image',
+          buttons: 'alitophotobank,image, aliphotobank',
+          title: 'advanced.sup_desc'
+      }]
 
 ## The style
 
