@@ -47,7 +47,7 @@
 
     // plugin class
     tinymce.create('tinymce.plugins.group', {
-        // 编辑器初始化后将初始化一个插件实例
+        // init an instance of plugin.
         init: function(ed, url) {
             //在这个实例中我们保存一些编辑器的公用信息
             this.ed = ed;
