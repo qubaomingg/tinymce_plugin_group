@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Aufree/ting.svg?branch=master)](https://travis-ci.org/freestyle21/tinymce_plugin_group)
 
-A plugin for tinymce to show a combinative  menu
+A plugin for tinymce to show a combinative  menu.
 
 ### Getting Started
 
